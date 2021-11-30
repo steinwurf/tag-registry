@@ -925,6 +925,9 @@
     "linux-mkspecs-action": [
         "1.0.0"
     ],
+    "macos-mkspecs-action": [
+        "1.0.0"
+    ],
     "mediaplayer-android": [
         "7.0.0",
         "7.1.0",
