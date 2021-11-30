@@ -922,6 +922,9 @@
         "8.0.1",
         "9.0.0"
     ],
+    "linux-cmake-action": [
+        "1.0.0"
+    ],
     "linux-mkspecs-action": [
         "1.0.0"
     ],
