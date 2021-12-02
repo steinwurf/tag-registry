@@ -932,7 +932,8 @@
         "1.0.0"
     ],
     "linux-mkspecs-action": [
-        "1.0.0"
+        "1.0.0",
+        "1.1.0"
     ],
     "macos-cmake-action": [
         "1.0.0"
