@@ -175,7 +175,8 @@
         "11.0.0"
     ],
     "clang-format-action": [
-        "1.0.0"
+        "1.0.0",
+        "2.0.0"
     ],
     "codedtcp-android": [
         "1.0.0",
