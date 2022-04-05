@@ -1769,7 +1769,8 @@
         "5.0.0"
     ],
     "windows-cmake-action": [
-        "1.0.0"
+        "1.0.0",
+        "2.0.0"
     ],
     "windows-mkspecs-action": [
         "1.0.0",
